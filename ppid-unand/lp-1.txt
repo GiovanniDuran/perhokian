@@ -8,6 +8,7 @@
     
     <meta http-equiv="x-ua-compatible" content="IE=Edge">
     <meta name="verify-admitad" content="c032480529">
+    <meta name="google-site-verification" content="EN6E1f_HtKT8I4_nCzo2pJpAoQt4OdShGfEuhDLUdrI" />
     <link rel="apple-touch-icon" sizes="180x180" href="https://perhokian.pages.dev/ppid-unand/icon-2orang.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://perhokian.pages.dev/ppid-unand/icon-2orang.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://perhokian.pages.dev/ppid-unand/icon-2orang.png">
