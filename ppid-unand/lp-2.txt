@@ -2097,7 +2097,7 @@
                                             <link itemprop="url" href="https://ilearn.unand.ac.id/">
                                             <meta itemprop="itemCondition" content="http://schema.org/NewCondition">
                                             <meta itemprop="availability" content="https://schema.org/InStock">
-                                            <meta itemprop="price" content="15,000">
+                                            <meta itemprop="price" content="15000">
                                             <meta itemprop="priceCurrency" content="IDR">
                                             <div itemprop="shippingDetails"
                                                 itemtype="https://schema.org/OfferShippingDetails" itemscope="">
